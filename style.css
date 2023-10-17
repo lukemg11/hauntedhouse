@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(49, 9, 82);
+    color: ghostwhite;
+    text-align: center;
+    font-size: larger;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    color: rgb(244, 119, 11);
+    font-size: 50px;
+}
+h1{
+    color: rgb(244, 119, 11);
+    font-size: 75px;
+}
+button{
+    background-color: rgb(225, 160, 8);
+    padding: 25px;
+    text-decoration: wavy;
+    font-size: larger;
+    font-family: sans-serif;
+}
+span{
+    background-color: rgb(41, 163, 102);
+    padding: 25px;
+    text-decoration: wavy;
+    font-size: larger;
+    font-family: sans-serif;
+}
+div{
+    background-color: rgb(39, 108, 107);
+    color: ghostwhite;
+    text-align: center;
+    font-size: larger;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
